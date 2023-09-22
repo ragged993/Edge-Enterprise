@@ -32,15 +32,15 @@ Edge Workspaces provides an incredible way for customers to organize their brows
 
 ### Edge Workspace scenarios
 
-The following are key scenarios for using Edge Workspaces in your organization.
+The following are key scenarios for using Edge Workspaces in your organization:
 
 - Onboarding individuals to a project or working on projects with multiple teams can be difficult. With so many websites and files emailed back and forth, it's hard to keep up with everything. Instead of sharing links back and forth, you can create a workspace with a shared set of open websites and working files and send one link to quickly onboard a new individual or to make sure your team is on the same page.
 - If an individual is working on multiple projects, they can create a workspace to organize the open tabs they have for each project. Whenever they want to work on that project, they can easily open its Edge Workspace and have everything they need in one place.
 
 ## Prerequisites
 
-- Users must have an Microsoft Entra tenant and Microsoft Edge version 114 or greater installed.
-- To manage via group policy, Admins must have Microsoft Edge version 114 or greater installed and version 114 of the policy files.
+- Users must have an Microsoft Entra tenant and Microsoft Edge version 114 or later installed.
+- To manage via group policy, Admins must have Microsoft Edge version 114 or later installed and version 114 of the policy files.
 - Users must have access to a OneDrive for Business license to create an Edge Workspace.  
 
 > [!IMPORTANT]
@@ -54,7 +54,7 @@ Edge Workspaces is enabled for users signed in with an Microsoft Entra account o
 
 Edge Workspaces lets users share a set of browser tabs so working groups can view the same websites and latest working files in one place and stay on the same page.
 
-Imagine a scenario where a team member is being onboarded to a new project or is being added to a project in progress. Instead of sending multiple links back and forth over email, it's productive and convenient to share all the links as open tabs in a workspace. What's more, the user will be able to see which tab each group member is on and, if tabs are updated, will see those updates happen in real-time.
+Imagine a scenario where a team member is being onboarded to a new project or is being added to a project in progress. Instead of sending multiple links back and forth over email, it's productive and convenient to share all the links as open tabs in a workspace. Additionally, the user will be able to see which tab each group member is on and, if tabs are updated, will see those updates happen in real time.
 
 To learn more about how to get your users started with Edge Workspaces, visit: [Discover your edge at work](https://aka.ms/LearnAboutEdgeWorkspaces).
 
@@ -143,7 +143,7 @@ Yes. You can use Locked Tabs. This feature lets you keep tabs where you put them
 
 ### If I close a tab in a workspace, does that close it for everyone in the workspace?
 
-Yes. Tabs in Edge Workspaces are shared in real-time for everyone. If someone closes a tab, it closes that tab for everyone that's using the workspace.
+Yes. Tabs in Edge Workspaces are shared in real time for everyone. If someone closes a tab, it closes that tab for everyone that's using the workspace.
 
 ### Where is my workspace data stored and how is it protected?
 
